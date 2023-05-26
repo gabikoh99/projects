@@ -5,7 +5,7 @@ Data Science and Machine Learning Projects
 For this project, I used [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) from Kaggle, which is a combination between 5 different datasets from Cleveland, Budapest, Switzerland, Long Beach VA and Stalog. 
 
 In this dataset, there are 11 clinical features for predicting heart disease events:
-Age: age of the patient [years]
+1. Age: age of the patient [years]
 Sex: sex of the patient [M: Male, F: Female]
 ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
 RestingBP: resting blood pressure [mm Hg]
