@@ -1,2 +1,2 @@
-# projects
+# My Projects
 Data Science and Machine Learning Projects
